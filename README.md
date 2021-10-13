@@ -19,6 +19,7 @@ Find the policy minimizing the expected number of time steps needed to deliver a
   <li>Policy Iteration;</li>
   <li>Linear Programming.</li>
 </ul>
+
 Further Info in "Assignment.pdf"
 
 
