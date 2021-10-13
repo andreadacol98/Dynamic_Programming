@@ -1,4 +1,4 @@
-# Dynamic_Programming
+# Dynamic Programming and Optimal Control
 The goal of this programming exercise was to was to deliver a package with a drone as quickly as possible when subject to probabilistic uncertainty.
 ## Problem set up
 <img align="right" height="140" src="https://github.com/andreadacol98/Dynamic_Programming/blob/main/Images/grid_world.png"></img>
